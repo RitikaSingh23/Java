@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Ritik/OneDrive/Desktop/Practice/C++",
       "program": "c:/Users/Ritik/OneDrive/Desktop/Practice/C++/build/Debug/outDebug",
+=======
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+>>>>>>> 356e123 (practice)
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
